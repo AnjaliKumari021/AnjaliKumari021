@@ -1,4 +1,4 @@
-### Hi there 👋 Anjali Kumari
+## Hi👋, I'm Anjali Kumari
 ### A passionate Data Analyst📊 from India 
 - 🔭 I’m a life long learner, currently exploring more about Data Analytics!
 - 🌱 I’m currently learning and upskilling myself.
